@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Flask environment variables
+*.env
+
+# MongoDB configuration and connection strings
+*.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# Database
+*.sqlite3
+
+# VS Code config (if you're using VS Code)
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebooks checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Ignore compiled code
+*.so
+
+# Ignore static files (if you don’t want to push them)
+static/
