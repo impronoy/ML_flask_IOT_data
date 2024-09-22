@@ -1,11 +1,12 @@
+
 # Prerequisites  
 1.  Create a MongoDB Atlas cluster.
 2.  Create a database called sensors_db with a collection sensors  
   
 # Steps on how to run  
-1.  Clone the repository 
+1.  Clone the repository using the below command  
 ```
-3. Open the project in Visual Studio Code and then open a new terminal.  Create a virtual environment using the below command
+2. Open the project in Visual Studio Code and then open a new terminal.  Create a virtual environment using the below command
 ```
 # Windows
 py -m venv .venv
