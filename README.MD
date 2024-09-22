@@ -1,8 +1,3 @@
-
-# Writeup  
-https://www.donskytech.com/create-a-rest-api-server-with-python-flask-and-mongodb/  
-  
-![Featured Image - Python Flask MongoDB REST API Server](https://user-images.githubusercontent.com/69466026/229530573-a7762815-af49-4c99-86e1-c46cb20ace00.jpg)
 # Prerequisites  
 1.  Create a MongoDB Atlas cluster.
 2.  Create a database called sensors_db with a collection sensors  
