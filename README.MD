@@ -3,13 +3,7 @@
 2.  Create a database called sensors_db with a collection sensors  
   
 # Steps on how to run  
-1.  Clone the repository using the below command  
-```
-git clone https://github.com/donskytech/python-flask-mongodb-projects.git
-```  
-2. Change into the project directory
-```
-cd rest-api-server
+1.  Clone the repository 
 ```
 3. Open the project in Visual Studio Code and then open a new terminal.  Create a virtual environment using the below command
 ```
