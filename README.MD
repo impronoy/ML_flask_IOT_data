@@ -5,6 +5,7 @@
   
 # Steps on how to run  
 1.  Clone the repository using the below command  
+git clone url.git
 ```
 2. Open the project in Visual Studio Code and then open a new terminal.  Create a virtual environment using the below command
 ```
